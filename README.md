@@ -1,6 +1,6 @@
 
 ## Olá, eu sou o Victor Macedo!
-### Desenvolvedor backend - Java | Spring Framework, PostgreSQL, HTML5 | CSS3 | JavaScript, Node.JS, Python.
+### Desenvolvedor Back-end - Java | Spring | PostgreSQL | HTML | CSS | JavaScript | Node.JS | Python.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormacedov&hide=contribs,prs)
 
