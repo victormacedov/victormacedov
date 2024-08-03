@@ -2,7 +2,7 @@
 ## Olá, eu sou o Victor Macedo!
 ### Desenvolvedor Back-end - Java | Spring | PostgreSQL | HTML | CSS | JavaScript | Node.JS | Python.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormacedov&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormacedov&show_icons=true&theme=transparent)
 
 ### Aqui está alguns dos meus contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormacedov/)
@@ -24,4 +24,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormacedov&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormacedov&layout=compact&theme=transparent)
