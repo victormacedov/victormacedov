@@ -1,6 +1,5 @@
-
 ## Hi, I'm Victor Macêdo!
-### Back-end Developer - Java | Spring | PostgreSQL | MongoDB | Postman | RabbitMQ | Google Cloud Platform.
+### Back-end Developer - Java | Spring | PostgreSQL | MongoDB | RabbitMQ | Google Cloud Platform.
 
 ![Victor Macêdo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=victormacedov&show_icons=true&theme=graywhite&include_all_commits=true&locale=en)
 
@@ -12,14 +11,13 @@
 ### Languages and Technologies:
 
 <p align="left">
-    <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-    <img alt="Spring" title="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
-    <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
-    <img alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
-    <img alt="Postman" title="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg"/>
+    <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img alt="Spring" title="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+    <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <img alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     <img alt="RabbitMQ" title="RabbitMQ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg"/>
-    <img alt="Google Cloud" title="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"/>
-    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+    <img alt="Google Cloud Platform" title="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormacedov&theme=light&layout=compact&custom_title=Technologies&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormacedov&layout=compact&custom_title=Technologies&langs_count=9&theme=graywhite)
