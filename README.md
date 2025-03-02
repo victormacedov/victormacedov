@@ -1,5 +1,5 @@
 ## Hi, I'm Victor Macêdo!
-### Back-end Developer - Java | Spring | PostgreSQL | MongoDB | RabbitMQ | Google Cloud Platform.
+### Back-end Developer - Java | Spring Boot | PostgreSQL | MongoDB | RabbitMQ | Google Cloud Platform.
 
 ![Victor Macêdo's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=victormacedov&show_icons=true&theme=graywhite&include_all_commits=true&locale=en)
 
